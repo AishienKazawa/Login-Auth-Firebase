@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-DSD {
+  font-family: "DM Serif Display", serif;
+}
+
+.thin-line {
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.611);
+  width: 100%;
+  position: relative;
+}
+
+.thin-line-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 0.5rem 1rem;
+}
