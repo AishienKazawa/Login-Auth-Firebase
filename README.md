@@ -17,8 +17,8 @@ For more detailed instructions on how to set up Firebase Authentication with Goo
 
 Firebase Authentication with Google
 
-[Firebase Authentication with Google](https://firebase.google.com/docs/auth/web/google-signin)
-[Firebase Authentication with Facebook](https://firebase.google.com/docs/auth/web/facebook-login)
+- [Firebase Authentication with Google](https://firebase.google.com/docs/auth/web/google-signin)
+- [Firebase Authentication with Facebook](https://firebase.google.com/docs/auth/web/facebook-login)
 
 ## Running the Project
 
